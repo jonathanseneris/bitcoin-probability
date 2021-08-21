@@ -1,6 +1,6 @@
-#Two hour blocks challenge
+# Two hour blocks challenge
 
-##Hypothesis
+## Hypothesis
 Bitcoin difficulty deals in large numbers. For example, a random hash has a 1 in 4,294,967,296 chance of being valid.
 Bitcoin difficulty is calculated for new blocks to generate every ten minutes, or 600 seconds.
 Each second is a 1 in 600 chance of generating a block.
@@ -9,12 +9,12 @@ Hashing has a binary outcome: valid or invalid. Using Binomial Probability, the 
 At present count of roughly 700000 blocks, this is likely to have occurred 4.26 times.
 It can be expected to occur about once every 164,319.25 blocks.
 
-##Requirements
+## Requirements
 
 - Raw bitcoin blockchain data
 - [rusty-blockparser](https://github.com/gcarq/rusty-blockparser)
 
-##Setup
+## Setup
 
 Use [rusty-blockparser](https://github.com/gcarq/rusty-blockparser) to generate a csv file in this directory.
 `./target/release/rusty-blockparser -d BITCOIN_DATA_DIRECTORY csvdump THIS_DIRECTORY/data`
