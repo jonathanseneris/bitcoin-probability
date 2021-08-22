@@ -8,7 +8,7 @@
 
 2. How many times the above had happened so far in the history of Bitcoin?
    - Up to block 375053, it had happened 150 times. (partial list at bottom)
-   - I was unable to download the full blockchain history in time, but will update the repo once it finishes
+   - I was unable to successfully download the full blockchain history, but will update the repo once it finishes.
 
 ## Work
 
@@ -17,12 +17,12 @@ For any single block, binomial probability can calculate the odds of 2+ hours wi
 For round historical numbers in February 2019, Bitcoin's daily average hashrate stayed around 40 TH/s, and the difficulty was around 6T.
 
 - To get the binomial probability, we use this formula:
-  - P(k out of n) = n!/(k!(n-k)!) x pk(1-p)(n-k)
+  - P(k out of n) = n!/(k!(n-k)!) x pk(1-p)^(n-k)
   - x is the total number of successes
   - P is the probability of a success on an individual trial
   - n is the number of trials.
 - Because we are looking for 0 successes, it simplifies much of the formula, as the first section will always simply multiply by 1.
-- Therefore, we only need this formula: pk(1-p)(n-k)
+- Therefore, we only need this formula: (1-p)^n
 - The probability of a successful hash is valid_hashes / total_hashes
   - a hash is a 256-bit number, so total possible hashes is 2^256
   - valid_hashes is all hashes under the hash target, which is calculated by difficulty_1_target / difficulty.
