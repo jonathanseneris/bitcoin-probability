@@ -3,12 +3,12 @@
 ## Summary answers:
 
 1. How often does the Bitcoin network see two consecutive blocks mined more than 2 hours apart from each other?
-   - As bitcoin matures and difficulty and hashrate remain high, 2+ hour intervals between blocks should occur less than every 400,000 blocks, and that frequency decreases as the network grows. Were the network to stabilize on the current hash/difficulty points, 2 hour intervals would occur about every 639037 blocks.
+   - At present day hash/difficulty points, 2 hour intervals would occur about every 639037 blocks. These outliers become even less frequent as difficulty and hashrate increase.
    - Early in the network, 2+ hour intervals would have happened often, as difficulty could not go below 1 even if hash rate did not generate blocks every 10 minutes.
 
 2. How many times the above had happened so far in the history of Bitcoin?
    - Up to block 375053, it had happened 150 times. (partial list at bottom)
-   - I was unable to successfully download the full blockchain history, but will update the repo once it finishes.
+   - Download of the full blockchain history is still in progress. Will update this repo once it finishes.
 
 ## Work
 
