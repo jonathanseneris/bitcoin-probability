@@ -7,8 +7,9 @@
    - Early in the network, 2+ hour intervals would have happened often, as difficulty could not go below 1 even if hash rate did not generate blocks every 10 minutes.
 
 2. How many times the above had happened so far in the history of Bitcoin?
-   - Up to block 375053, it had happened 150 times. (partial list at bottom)
-   - Download of the full blockchain history is still in progress. Will update this repo once it finishes.
+   - 142.  
+   - Most occurred in 2009. One occurred in 2011, then none again until 2021. 
+   - List at bottom
 
 ## Work
 
@@ -83,8 +84,149 @@ Here they are in order:
 'Sun Jan 11 2009: 3 hours for block 164 || 0000000066fd802a02909e8918fb85943836ce5d99000bdcd8128a06070d140a',
 ...
 
-## Answer
+## Output
 
-_This repo will be updated as the blockchain downloads._
 
-Through the first 375053 blocks, there have been **150** intervals of 2+ hours.
+- Thu Jan 08 2009: 5 days
+- Fri Jan 09 2009: a day
+- Sat Jan 10 2009: 9 hours
+- Sat Jan 10 2009: 3 hours
+- Sun Jan 11 2009: 3 hours
+- Sun Jan 11 2009: 4 hours
+- Wed Jan 21 2009: 3 hours
+- Thu Jan 22 2009: 2 hours
+- Fri Jan 23 2009: 4 hours
+- Fri Jan 23 2009: 4 hours
+- Mon Jan 26 2009: 3 hours
+- Mon Jan 26 2009: 3 hours
+- Sat Mar 21 2009: 3 hours
+- Sat Mar 21 2009: 3 hours
+- Sat Mar 21 2009: 4 hours
+- Thu Apr 23 2009: 4 hours
+- Thu Apr 23 2009: 3 hours
+- Sat May 02 2009: 2 hours
+- Sat May 09 2009: 3 hours
+- Sun May 10 2009: 3 hours
+- Tue May 19 2009: 7 hours
+- Thu May 21 2009: 2 hours
+- Thu May 21 2009: 3 hours
+- Sat May 23 2009: a day
+- Sat May 23 2009: 2 hours
+- Sun May 24 2009: 5 hours
+- Thu May 28 2009: 2 hours
+- Sun May 31 2009: 5 hours
+- Mon Jun 01 2009: 3 hours
+- Mon Jun 01 2009: 4 hours
+- Wed Jun 03 2009: 6 hours
+- Thu Jun 04 2009: 9 hours
+- Sat Jun 06 2009: a day
+- Sat Jun 06 2009: 3 hours
+- Sun Jun 07 2009: 20 hours
+- Sun Jun 14 2009: 2 hours
+- Thu Jun 25 2009: 3 hours
+- Wed Jul 15 2009: 7 hours
+- Fri Jul 17 2009: 10 hours
+- Sat Jul 18 2009: 13 hours
+- Sat Jul 18 2009: 4 hours
+- Sat Jul 18 2009: 7 hours
+- Wed Jul 22 2009: 3 hours
+- Sat Jul 25 2009: 3 hours
+- Sat Jul 25 2009: 2 hours
+- Sun Jul 26 2009: 17 hours
+- Sun Jul 26 2009: 3 hours
+- Sun Jul 26 2009: 2 hours
+- Sun Jul 26 2009: 2 hours
+- Tue Jul 28 2009: 2 hours
+- Tue Jul 28 2009: 3 hours
+- Tue Jul 28 2009: 2 hours
+- Tue Jul 28 2009: 4 hours
+- Wed Jul 29 2009: 2 hours
+- Wed Jul 29 2009: 3 hours
+- Wed Jul 29 2009: 3 hours
+- Wed Jul 29 2009: 3 hours
+- Thu Jul 30 2009: 8 hours
+- Thu Jul 30 2009: 3 hours
+- Thu Jul 30 2009: 2 hours
+- Thu Jul 30 2009: 3 hours
+- Fri Jul 31 2009: 3 hours
+- Fri Jul 31 2009: 8 hours
+- Fri Jul 31 2009: 2 hours
+- Sat Aug 01 2009: 5 hours
+- Sat Aug 01 2009: 2 hours
+- Sat Aug 01 2009: 3 hours
+- Sun Aug 02 2009: 3 hours
+- Sun Aug 02 2009: 3 hours
+- Sun Aug 02 2009: 2 hours
+- Sun Aug 02 2009: 3 hours
+- Mon Aug 03 2009: 8 hours
+- Mon Aug 03 2009: 4 hours
+- Mon Aug 03 2009: 3 hours
+- Mon Aug 03 2009: 2 hours
+- Mon Aug 03 2009: 4 hours
+- Sat Aug 15 2009: 2 hours
+- Sat Aug 15 2009: 4 hours
+- Sat Aug 15 2009: 2 hours
+- Sat Aug 15 2009: 3 hours
+- Sun Aug 16 2009: 3 hours
+- Sun Aug 16 2009: 4 hours
+- Sun Aug 16 2009: 6 hours
+- Mon Aug 17 2009: 3 hours
+- Mon Aug 17 2009: 2 hours
+- Mon Aug 17 2009: 4 hours
+- Mon Aug 17 2009: 5 hours
+- Tue Aug 18 2009: 3 hours
+- Tue Aug 18 2009: 5 hours
+- Tue Aug 18 2009: 5 hours
+- Tue Aug 18 2009: 3 hours
+- Wed Aug 19 2009: 8 hours
+- Wed Aug 19 2009: 3 hours
+- Wed Aug 19 2009: 4 hours
+- Thu Aug 20 2009: 4 hours
+- Thu Aug 20 2009: 2 hours
+- Fri Aug 21 2009: 3 hours
+- Fri Aug 21 2009: 11 hours
+- Fri Aug 21 2009: 4 hours
+- Sat Aug 22 2009: 2 hours
+- Sat Aug 22 2009: 4 hours
+- Sat Aug 22 2009: 3 hours
+- Sat Aug 22 2009: 4 hours
+- Sat Aug 22 2009: 7 hours
+- Sat Aug 22 2009: 3 hours
+- Sun Aug 23 2009: 6 hours
+- Sun Aug 23 2009: 4 hours
+- Sun Aug 23 2009: 3 hours
+- Sun Aug 23 2009: 4 hours
+- Mon Aug 24 2009: 6 hours
+- Mon Aug 24 2009: 4 hours
+- Mon Aug 24 2009: 6 hours
+- Tue Aug 25 2009: 6 hours
+- Wed Aug 26 2009: 3 hours
+- Thu Aug 27 2009: 3 hours
+- Thu Aug 27 2009: 5 hours
+- Tue Sep 01 2009: 2 hours
+- Wed Sep 09 2009: 4 hours
+- Tue Sep 15 2009: 4 hours
+- Tue Sep 15 2009: 2 hours
+- Tue Sep 22 2009: 5 hours
+- Tue Sep 22 2009: 2 hours
+- Tue Sep 22 2009: 3 hours
+- Tue Sep 22 2009: 2 hours
+- Wed Sep 23 2009: 5 hours
+- Wed Sep 23 2009: 5 hours
+- Fri Oct 16 2009: 2 hours
+- Fri Oct 23 2009: 3 hours
+- Sat Oct 24 2009: 3 hours
+- Mon Oct 26 2009: 2 hours
+- Sun Nov 01 2009: 2 hours
+- Sun Nov 01 2009: 3 hours
+- Sun Nov 01 2009: 6 hours
+- Mon Nov 02 2009: 2 hours
+- Fri Dec 04 2009: 2 hours
+- Fri Dec 04 2009: 4 hours
+- Sat Dec 05 2009: 3 hours
+- Sat Jan 02 2010: 2 hours
+- Sun Aug 15 2010: 7 hours
+- Thu Oct 13 2011: 2 hours
+- Mon Apr 19 2021: 2 hours
+- Thu Jul 01 2021: 2 hours
+There have been 142 times 2 hours have elapsed between blocks out of 697114 blocks.
